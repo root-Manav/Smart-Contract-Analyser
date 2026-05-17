@@ -207,13 +207,6 @@ Open your browser at `http://localhost:8501`
 
 ---
 
-## ⚠️ Disclaimer
-
-See [DISCLAIMER.md](DISCLAIMER.md) for full terms of use.
-
-This tool is intended for **educational and research purposes only**. It does not replace professional smart contract auditing.
-
----
 
 ## 👨‍💻 Author
 
@@ -223,6 +216,4 @@ Design Project — AI-Driven Smart Contract Vulnerability Detection
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. See `LICENSE` for details.
