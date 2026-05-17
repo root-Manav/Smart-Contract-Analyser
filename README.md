@@ -113,7 +113,6 @@ smart_contract_analyzer/
 ├── extract_features.py      ← Runs Slither + builds features.csv
 ├── train_model.py           ← Trains and evaluates ML models
 ├── app.py                   ← Streamlit web interface
-├── DISCLAIMER.md
 └── README.md
 ```
 
